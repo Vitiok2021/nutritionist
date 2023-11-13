@@ -1,0 +1,25 @@
+<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="25" height="24" fill="#1E1E1E"/>
+<g id="Pricing Page - Desktop" clip-path="url(#clip0_18_256)">
+<rect width="1920" height="5445" transform="translate(-967 -2913)" fill="#FAFDF2"/>
+<g id="Container">
+<rect x="-804.5" y="-640.5" width="1595" height="1592" rx="11.5" fill="#F7FCE9"/>
+<rect x="-804.5" y="-640.5" width="1595" height="1592" rx="11.5" stroke="#E5F5BD"/>
+<g id="Sub Container">
+<g id="Items Container">
+<g id="Icon">
+<rect x="-7.33398" y="-8" width="40" height="40" rx="8" fill="#EEF8D3"/>
+<g id="Icon_2">
+<path id="Union" d="M8.20241 6.2636C7.85094 5.91213 7.28109 5.91213 6.92962 6.2636C6.57815 6.61508 6.57815 7.18492 6.92962 7.5364L11.3932 12L6.92962 16.4636C6.57815 16.8151 6.57815 17.3849 6.92962 17.7364C7.28109 18.0879 7.85094 18.0879 8.20241 17.7364L12.666 13.2728L17.1296 17.7364C17.4811 18.0879 18.0509 18.0879 18.4024 17.7364C18.7539 17.3849 18.7539 16.8151 18.4024 16.4636L13.9388 12L18.4024 7.5364C18.7539 7.18492 18.7539 6.61508 18.4024 6.2636C18.0509 5.91213 17.4811 5.91213 17.1296 6.2636L12.666 10.7272L8.20241 6.2636Z" fill="#262626"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_18_256">
+<rect width="1920" height="5445" fill="white" transform="translate(-967 -2913)"/>
+</clipPath>
+</defs>
+</svg>
